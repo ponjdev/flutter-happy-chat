@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344916077169",
+    "project_id": "happy-chat-29788",
+    "storage_bucket": "happy-chat-29788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344916077169:android:cd44c49152481dd22409d0",
+        "android_client_info": {
+          "package_name": "com.example.happy_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9DJuNqWQMQ6TAG098sLTQ93ONBmqdq8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
