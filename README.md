@@ -5,7 +5,7 @@
 "Happy Chat" is a Flutter-based chat application designed to enhance my Flutter development skills. This project focuses on integrating advanced features like face recognition using Google ML Kit and Firebase services. It's a hands-on approach to learning real-time data handling, Firebase authentication, database management, and innovative user experience design in Flutter.
 
 ## Demonstation
-- APK : https://github.com/ponjdev/flutter-happy-chat/demo/
+- APK : [Download APK](./demo/apk/happy-chat-demo.apk)
 - Screenshots:
 ![Screenshot](./demo/images/Screenshot_1.png)
 
