@@ -5,8 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:happy_chat/screens/chat_screen.dart';
 import 'package:happy_chat/services/authentication_service.dart';
 import 'package:happy_chat/utils/alert_dialog.dart';
-import 'package:happy_chat/utils/face_detector_view.dart';
-import 'package:happy_chat/widgets/camera_preview_widget.dart';
+import 'package:happy_chat/widgets/face_detector_view.dart';
 import 'package:camera/camera.dart';
 
 class LoginScreen extends StatefulWidget {
